@@ -31,6 +31,7 @@ Making Data Clear, Actionable, and Impactful
 ---
 
 ## 🚀 Featured Projects
+- [Analysis of Calendar Anomalies in the BIST100 Index (2015-2025)](https://github.com/onurkisa/bist100-calendar-anomalies-analysis)
 - [SQL Data Warehouse Project](https://github.com/onurkisa/eurozone-ecommerce-sql-data-warehouse)
 - [Eurozone E-commerce Synthetic Data Generator](https://github.com/onurkisa/eurozone-ecommerce-datagenerator)
 - [Modeling E-commerce Participation and Customer Distribution Across European Markets (2023)](https://github.com/onurkisa/eurozone-ecommerce-modeling)
