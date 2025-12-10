@@ -17,17 +17,31 @@ Making Data Clear, Actionable, and Impactful
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ## 💼 Core Expertise
-**🔬 Data Analytics & Intelligence**  
-- Advanced Analytics, Statistical Modeling, Data Quality Frameworks
 
-**📈 Performance Measurement & Evaluation**  
-- Results-based Frameworks, KPI Development, Mixed-methods Evaluation, Real-time Monitoring
-  
-**📊 Data Communication & Storytelling**  
-- Interactive Dashboards, Data Storytelling, Executive Presentations
-  
-**🤝 Strategic Collaboration**  
-- Agile Methodologies, Stakeholder Engagement, Cross-functional Project Leadership, Remote Team Coordination
+**🔬 Data Analysis, Programming & Infrastructure**
+- SQL, T-SQL, SQL Server
+- Python (Pandas, NumPy, SciPy, Pingouin, Matplotlib, Seaborn)
+- SPSS, Advanced Excel
+- ETL workflows, data pipelines, validation, and quality assurance
+- Reproducible analysis, documentation, and data governance
+
+**📊 Business Intelligence, Visualization & Storytelling**
+- Tableau, Power BI, Figma
+- Dashboard design, UX-focused layouts, interactive reporting
+- Executive presentations, insight synthesis, narrative-driven communication
+
+**📐 Analytical Methods & Performance Measurement**
+- KPI development and measurement frameworks
+- Hypothesis testing, statistical modeling
+- Time series analysis, forecasting foundations
+- Funnel analysis, cohort analysis, segmentation, trend diagnostics
+- Mixed-methods evaluation, results-based frameworks, real-time monitoring
+
+**🤝 Collaboration, Coordination & Professional Skills**
+- Stakeholder engagement and cross-functional collaboration
+- Agile methodologies, remote teamwork
+- Technical documentation, proactive problem solving, attention to detail
+
 ---
 
 ## 🚀 Featured Projects
