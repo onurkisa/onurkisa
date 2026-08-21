@@ -1,5 +1,5 @@
 # Hi, I'm Onur KISA 👋
-**Data Analyst & M&E Specialist**  
+**Analyst & M&E Specialist**  
 Making Data Clear, Actionable, and Impactful  
 *Business Intelligence • Visualization • KPIs*
 
