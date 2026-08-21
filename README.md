@@ -5,7 +5,7 @@ Making Data Clear, Actionable, and Impactful
 
 ## 🎯 About My Work
 - I bridge the worlds of **Research**, **Data Analytics**, and **Impact Measurement** to turn complex data into insights that actually drive decisions.
-- **4+ years** combining M&E rigor with modern analytics tools.
+- **5+ years** combining M&E rigor with modern analytics tools.
 - **Remote-first professional** who thrives in collaborative, cross-functional environments.
 - Passionate about making information **understandable and actionable** for everyone from executives to field teams.
 ---
