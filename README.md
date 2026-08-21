@@ -45,6 +45,7 @@ Making Data Clear, Actionable, and Impactful
 ---
 
 ## 🚀 Featured Projects
+- [Kobo-Based Quantitative Survey Analysis](https://github.com/onurkisa/kobo-quantitative-survey-analysis)
 - [Analysis of Calendar Anomalies in the BIST100 Index (2015-2025)](https://github.com/onurkisa/bist100-calendar-anomalies-analysis)
 - [Eurozone E-Commerce Business Performance - Tableau Dashboard](https://public.tableau.com/app/profile/onur.kisa/viz/EurozoneE-CommerceBusinessPerformance/Overview)
 - [Eurozone E-Commerce - SQL Analysis](https://github.com/onurkisa/eurozone-ecommerce-sql-analysis)
